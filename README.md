@@ -18,6 +18,7 @@ It is possible that the game crashes directly in which case it is enough to rest
 # 4. How to play
 To find out which keys to use: h \
 To move the hero these are the basic keys: z,q,s,d \
+To move diagonally: a, e, w, x \
 For a full description of the game state: i \
 To use equipment: u \
 To destroy equipment from the inventory: t \
