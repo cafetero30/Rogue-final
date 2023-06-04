@@ -7,6 +7,10 @@ This code generates a game map using rectangular rooms connected to each other. 
 It then allows you to embody a hero who will travel this map.
 
 # 3. Launch
+This code requires importing the following modules: \
+copy \
+math \
+random \
 To launch the game just go to the terminal on Windows, go to the game folder and type python3 main.py \
  \
 It is possible that the game crashes directly in which case it is enough to restart it
